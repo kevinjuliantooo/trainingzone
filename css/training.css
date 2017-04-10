@@ -1,0 +1,50 @@
+@charset "utf-8";
+/* CSS Document */
+
+#header
+{
+	font-size:100px;
+	background-color:#907136; 
+	text-align:center;
+}
+
+#nav
+{
+	font-size: 50px;
+}
+
+#title
+{
+	background-color:greenyellow;
+	text-align: center;
+}
+#mission
+{
+	font-size:20px;
+	background-color:burlywood;
+	text-align:center;
+}
+
+#target
+{
+	font-size:20px;
+	background-color:burlywood;
+	text-align:center;
+}
+
+#success
+{
+	font-size:20px;
+	background-color:burlywood;
+	text-align:center;
+}
+
+#footer
+{
+	background-color:gray;
+	text-decoration-color: aliceblue;
+	text-align: center;
+}
+
+
+
